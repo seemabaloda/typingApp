@@ -1,8 +1,22 @@
-# React + Vite
+# Typing Speed Tester 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React app that helps you measure your typing speed! The app provides a sample sentence, tracks the time taken to type it, and alerts you to any typing mistakes.
 
-Currently, two official plugins are available:
+# Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⏱ Live Timer: Shows the elapsed time as you type.
+
+🖊 Typing Test: Type the given sample text as quickly and accurately as possible.
+
+ ⚠️ Error Detection: Instantly notifies you when there's a typing mistake.
+
+ 📤 Restart Test: Click the "Start Typing Test" button to reset and try again.
+
+ Technologies Used 🛠️
+
+React — Frontend library
+
+useState, useRef, useEffect — React hooks for state and side effects
+
+CSS — Styling the app for a clean and modern look
+
